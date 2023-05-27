@@ -367,13 +367,11 @@ img {
   background-color: var(--text-color-second);
   padding-top: 100px;
   padding-bottom: 100px;
+}
+.list-footer {
   display: flex;
   align-items: baseline;
 }
-/* .list-footer {
-  display: flex;
-  align-items: baseline;
-} */
 
 .footer-logo-text {
   margin-right: 120px;
