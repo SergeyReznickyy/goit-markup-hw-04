@@ -356,7 +356,9 @@ img {
   color: #404bbf;
   border-color: #404bbf;
 }
-
+.customers-link:focus {
+  background-color: #404bbf;
+}
 .customers-icon {
   fill: currentColor;
 }
@@ -368,6 +370,7 @@ img {
 }
 .list-footer {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-logo-text {
@@ -453,9 +456,7 @@ img {
   justify-content: center;
   margin-bottom: 72px;
 }
-/* .img-margin {
-  margin-bottom: 32px;
-} */
+
 .button-filter {
   min-width: 69px;
   height: 48px;
