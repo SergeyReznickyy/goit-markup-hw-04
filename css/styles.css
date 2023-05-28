@@ -353,7 +353,6 @@ img {
 }
 .customers-link:hover,
 .customers-link:focus {
-  color: #404bbf;
   border-color: #404bbf;
   background-color: #404bbf;
 }
