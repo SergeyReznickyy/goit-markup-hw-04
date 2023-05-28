@@ -356,9 +356,6 @@ img {
   color: #404bbf;
   border-color: #404bbf;
 }
-.customers-link:focus {
-  background-color: #404bbf;
-}
 .customers-icon {
   fill: currentColor;
 }
@@ -437,7 +434,6 @@ img {
 .footer-social-link:hover,
 .footer-social-link:focus {
   background-color: #31d0aa;
-  background-color: #404bbf;
 }
 /* __________PORTFOLIO ST#2_____________ */
 .portfolio {
