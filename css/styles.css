@@ -315,7 +315,8 @@ img {
   justify-content: center;
   align-items: center;
 }
-.team-sol-link:hover {
+.team-sol-link:hover,
+.team-sol-link:focus {
   background-color: #404bbf;
 }
 
